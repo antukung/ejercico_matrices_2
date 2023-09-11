@@ -1,0 +1,26 @@
+#tablero {
+    display: grid;
+    place-content: center;
+
+
+}
+
+.casilla {
+    width: 5em;
+    height: 5em;
+}
+body {
+    display: grid;
+    place-content: center;
+
+}
+
+
+.blanco {
+    background-color: white;
+}
+
+.negro {
+    background-color: black;
+}
+
